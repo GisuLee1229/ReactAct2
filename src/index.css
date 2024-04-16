@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-Image: url('https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F01%2Fdemon-slayer-ufotable-free-download-background-info-003.jpg?cbr=1&q=90');
+    background-size: cover;
+    background-position: center;
+}
